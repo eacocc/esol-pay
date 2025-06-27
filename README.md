@@ -1,17 +1,17 @@
-e&EACO(Earth’s Best Coin) 
-EACO is Earth’s best friend;
-$e=$eaco.
-SOL contract： 
-DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
-
-https://linktr.ee/web3eaco
-https://solscan.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
-https://linktr.ee/eacocc
-https://x.com/eacocc
-english tg: https://t.me/e_eacocc
-华语社区：https://t.me/aieaco
-e(eaco) spanish group: https://t.me/eacoespanish
-Ewap:https://github.com/eacocc/EACO_Exchange_DApp
+e&EACO(Earth’s Best Coin) <br />
+EACO is Earth’s best friend; <br />
+$e=$eaco. <br />
+SOL contract：  <br />
+DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH <br />
+ <br />
+https://linktr.ee/web3eaco  <br />
+https://solscan.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH  <br />
+https://linktr.ee/eacocc  <br />
+https://x.com/eacocc  <br />
+english tg: https://t.me/e_eacocc  <br />
+华语社区：https://t.me/aieaco  <br />
+e(eaco) spanish group: https://t.me/eacoespanish  <br />
+Ewap:https://github.com/eacocc/EACO_Exchange_DApp  <br />
 
 # Solana Pay
 
