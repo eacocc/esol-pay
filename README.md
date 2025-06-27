@@ -11,7 +11,7 @@ https://x.com/eacocc  <br />
 english tg: https://t.me/e_eacocc  <br />
 华语社区：https://t.me/aieaco  <br />
 e(eaco) spanish group: https://t.me/eacoespanish  <br />
-Ewap:https://github.com/eacocc/EACO_Exchange_DApp  <br />
+E swap:https://github.com/eacocc/EACO_Exchange_DApp  <br />
 
 # Solana Pay
 
