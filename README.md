@@ -12,8 +12,9 @@ english tg: https://t.me/e_eacocc  <br />
 华语社区：https://t.me/aieaco  <br />
 e(eaco) spanish group: https://t.me/eacoespanish  <br />
 E swap:https://github.com/eacocc/EACO_Exchange_DApp  <br />
+Welcome to join us as volunteer programmers <br />
 
-# Solana Pay & Esol Pay
+# Solana Pay & E(eaco)sol Pay
 
 Solana Pay is a standard protocol and set of reference implementations that enable developers to incorporate decentralized payments into their apps and services.
 
