@@ -1,3 +1,4 @@
+E(eaco)sol Pay library,<br />
 e&EACO(Earth’s Best Coin) <br />
 EACO is Earth’s best friend; <br />
 $e=$eaco. <br />
